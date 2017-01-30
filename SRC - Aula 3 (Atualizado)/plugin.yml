@@ -1,0 +1,10 @@
+name: PvP
+version: 1.0
+authors: [THG]
+main: com.tke.tutorial.pvp.Main
+commands:
+  sethome:
+  home:
+  listhomes:
+  delhome:
+  cash:
